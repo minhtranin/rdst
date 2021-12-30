@@ -1,4 +1,4 @@
-module github.com/felipeagger/go-redis-streams
+module github.com/minhtranin/rdst
 
 go 1.13
 

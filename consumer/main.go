@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/felipeagger/go-redis-streams/consumer/handler"
-	"github.com/felipeagger/go-redis-streams/packages/event"
-	"github.com/felipeagger/go-redis-streams/packages/utils"
 	"github.com/go-redis/redis/v7"
+	"github.com/minhtranin/rdst/consumer/handler"
+	"github.com/minhtranin/rdst/packages/event"
+	"github.com/minhtranin/rdst/packages/utils"
 	uuid "github.com/satori/go.uuid"
 )
 

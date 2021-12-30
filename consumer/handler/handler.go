@@ -3,8 +3,8 @@ package handler
 import (
 	"fmt"
 
-	"github.com/felipeagger/go-redis-streams/packages/event"
-	evt "github.com/felipeagger/go-redis-streams/packages/event"
+	"github.com/minhtranin/rdst/packages/event"
+	evt "github.com/minhtranin/rdst/packages/event"
 )
 
 //HandlerFactory ...

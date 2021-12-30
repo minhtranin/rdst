@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	evt "github.com/felipeagger/go-redis-streams/packages/event"
+	evt "github.com/minhtranin/rdst/packages/event"
 )
 
 type commentHandler struct {
